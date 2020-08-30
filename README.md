@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The main challenges in completing this project were setting up Adroid Studio and troubleshooting the deprecated functions and libraries.
 
 ## License
 
